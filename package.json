@@ -1,7 +1,7 @@
 {
-  "name": "simple-backend",
+  "name": "sails-backend",
   "version": "1.0.0",
-  "description": "",
+  "description": "Backend for the Sails Assistant",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sbrady521/simple-backend.git"
+    "url": "git+https://github.com/BrentJMaxwell/sails-backend.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sbrady521/simple-backend/issues"
+    "url": "https://github.com/BrentJMaxwell/sails-backend.git/issues"
   },
-  "homepage": "https://github.com/sbrady521/simple-backend#readme",
+  "homepage": "https://github.com/BrentJMaxwell/sails-backend.git#readme",
   "dependencies": {
     "dotenv": "^16.3.1",
     "express": "^4.18.2",
