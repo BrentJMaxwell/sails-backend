@@ -1,3 +1,5 @@
+//Access the URL at http://localhost:3000/get-retool-url?email=brent@pathweaver.ai
+//Response will come back looking like this: {"embedUrl":"https://app.pathweaver.ai/embed-redirect?nonce=xxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx&destination=%2Fembedded%2Fauthed%2Fxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"}
 const express = require('express')
 const fetch = require('node-fetch')
 
